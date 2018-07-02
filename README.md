@@ -4,3 +4,4 @@
 
 下面是成长之路电梯：
 - [理性数据分析的养成之路1--撒狗粮5年撒出5个亿](https://github.com/AAAlvin/Analysis-Road/blob/master/Article/%E6%95%B0%E6%8D%AE%E5%86%B0%E5%B1%B1-%E7%90%86%E6%80%A7%E5%88%86%E6%9E%90%E7%9A%84%E5%85%BB%E6%88%90%E4%B9%8B%E8%B7%AF1.md)
+- [理性数据分析的养成之路2--虎扑湿乎乎，姓詹还是库？](https://github.com/AAAlvin/Analysis-Road/blob/master/Article/%E6%95%B0%E6%8D%AE%E5%86%B0%E5%B1%B1-%E7%90%86%E6%80%A7%E5%88%86%E6%9E%90%E7%9A%84%E5%85%BB%E6%88%90%E4%B9%8B%E8%B7%AF2.md)
